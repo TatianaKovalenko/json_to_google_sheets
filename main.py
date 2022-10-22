@@ -12,7 +12,7 @@ credentials = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1JcuP80WL08h4L2H3ALBel--ozI5JvKTOrHMPNfLZueE'
+SAMPLE_SPREADSHEET_ID = '1JcuP80WL08h4L2H39ALBel--ozI5JvKTOrHMPNfLZueE'
 SAMPLE_RANGE_NAME = 'first'
 
 
